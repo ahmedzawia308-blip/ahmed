@@ -1,0 +1,14 @@
+{
+  "background_color": "#ffffff",
+  "dir": "rtl",
+  "display": "standalone",
+  "name": "نظام صيانة السعداء",
+  "orientation": "portrait",
+  "scope": "/ahmed/",
+  "short_name": "صيانة السعداء",
+  "start_url": "/ahmed/",
+  "theme_color": "#ffffff",
+  "id": "/ahmed/",
+  "description": "نظام ادارة  و متابعة الصيانة الدورية لشركة السعداء",
+  "lang": "ar"
+}
